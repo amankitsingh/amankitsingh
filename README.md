@@ -1,4 +1,6 @@
-![Hi there 👋 I'm Ankit Singh. I'm a software developer](https://github.com/infinityrun/infinityrun/blob/master/bio.gif)
+##### Hey There :sunglasses:
+
+![Hi there 👋 I'm Ankit Singh. I'm a software developer](https://github.com/infinityrun/infinityrun/blob/master/b.gif)
 
 
 ##### Made with ❤️ by [Ankit Singh](https://github.com/infinityrun)
@@ -7,9 +9,12 @@
 <a href="https://twitter.com/satvik_codes"><img src="https://img.icons8.com/android/24/000000/twitter.png" height="20px" width="20px"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/satvikchachra/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/amankitsingh/"><img src="https://img.icons8.com/android/24/000000/instagram.png" height="20px" width="20px"/></a>
 
-[@amankitsingh](https://twitter.com/amankitsingh) &nbsp;&nbsp;&nbsp;
-[@ankitsingh99](https://www.linkedin.com/in/ankitsingh99/)
+[@amankitsingh](https://twitter.com/amankitsingh/) &nbsp;&nbsp;&nbsp;
+[@ankitsingh99](https://www.linkedin.com/in/ankitsingh99/) &nbsp;&nbsp;&nbsp;
+[@amankitsingh](https://www.instagram.com/amankitsingh/)
 
 <!--
 **infinityrun/infinityrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
