@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hi there 👋 I'm Ankit Singh. I'm a software developer](https://github.com/infinityrun/infinityrun/blob/master/bio.gif)
 
 <!--
 **infinityrun/infinityrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
