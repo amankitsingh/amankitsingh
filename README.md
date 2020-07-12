@@ -1,6 +1,6 @@
 ##### Hey There :sunglasses:
 
-![Hi there 👋 I'm Ankit Singh. I'm a software developer](https://github.com/infinityrun/infinityrun/blob/master/b.gif)
+![Hi there 👋 I'm Ankit Singh. I'm a software developer](https://github.com/infinityrun/infinityrun/blob/master/bio.gif)
 
 
 ##### Made with ❤️ by [Ankit Singh](https://github.com/infinityrun)
