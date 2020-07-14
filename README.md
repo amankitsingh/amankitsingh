@@ -11,13 +11,18 @@
 <a href="https://www.linkedin.com/in/satvikchachra/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/amankitsingh/"><img src="https://img.icons8.com/android/24/000000/instagram.png" height="20px" width="20px"/></a>
-
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://www.medium.com/@ankitsingh99"><img src="https://img.icons8.com/android/24/000000/blog.png" height="20px" width="20px"/></a>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://www.dev.to/ankitsingh/"><img src="https://img.icons8.com/android/24/000000/blog.png" height="20px" width="20px"/></a>
 
 [@amankitsingh](https://twitter.com/amankitsingh/) &nbsp;&nbsp;&nbsp;
 [@ankitsingh99](https://www.linkedin.com/in/ankitsingh99/) &nbsp;&nbsp;&nbsp;
-[@amankitsingh](https://www.instagram.com/amankitsingh/)
+[@amankitsingh](https://www.instagram.com/amankitsingh/) &nbsp;&nbsp;&nbsp;
+[Dev.to](https://dev.to/ankitsingh) &nbsp;&nbsp;&nbsp;
+[Medium.com](https://medium.com/@ankitsingh99)
 
-![](https://visitor-badge.glitch.me/badge?page_id=infinityrun.infinityrun)
+![twitter link](https://visitor-badge.glitch.me/badge?page_id=infinityrun.infinityrun)
 <!--
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=infinityrun)
 
