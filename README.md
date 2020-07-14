@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/satvikchachra/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/amankitsingh/"><img src="https://img.icons8.com/android/24/000000/instagram.png" height="20px" width="20px"/></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
 <a href="https://www.medium.com/@ankitsingh99"><img src="https://img.icons8.com/android/24/000000/blog.png" height="20px" width="20px"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
 <a href="https://www.dev.to/ankitsingh/"><img src="https://img.icons8.com/android/24/000000/blog.png" height="20px" width="20px"/></a>
