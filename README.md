@@ -1,4 +1,4 @@
-##### Hey There :sunglasses:
+### Hey There :sunglasses:
 
 ![Hi there 👋 I'm Ankit Singh. I'm a software developer](https://github.com/infinityrun/infinityrun/blob/master/bio.gif)
 
@@ -12,10 +12,12 @@
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/amankitsingh/"><img src="https://img.icons8.com/android/24/000000/instagram.png" height="20px" width="20px"/></a>
 
+
 [@amankitsingh](https://twitter.com/amankitsingh/) &nbsp;&nbsp;&nbsp;
 [@ankitsingh99](https://www.linkedin.com/in/ankitsingh99/) &nbsp;&nbsp;&nbsp;
 [@amankitsingh](https://www.instagram.com/amankitsingh/)
 
+![](https://visitor-badge.glitch.me/badge?page_id=infinityrun.infinityrun)
 <!--
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=infinityrun)
 
