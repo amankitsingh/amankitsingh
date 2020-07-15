@@ -22,7 +22,8 @@
 [Dev.to](https://dev.to/ankitsingh) &nbsp;&nbsp;&nbsp;
 [Medium.com](https://medium.com/@ankitsingh99)
 
-![twitter link](https://visitor-badge.glitch.me/badge?page_id=infinityrun.infinityrun)
+![no of visitor](https://visitor-badge.glitch.me/badge?page_id=infinityrun.infinityrun)
+
 <!--
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=infinityrun)
 
