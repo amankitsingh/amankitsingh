@@ -22,9 +22,10 @@
 [Dev.to](https://dev.to/ankitsingh) &nbsp;&nbsp;&nbsp;
 [Medium.com](https://medium.com/@ankitsingh99)
 
-![no of visitor](https://visitor-badge.glitch.me/badge?page_id=infinityrun.infinityrun)
 
 <!--
+![no of visitor](https://visitor-badge.glitch.me/badge?page_id=infinityrun.infinityrun)
+
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=infinityrun)
 
 **infinityrun/infinityrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
