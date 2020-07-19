@@ -23,6 +23,7 @@
 [Medium.com](https://medium.com/@ankitsingh99)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=infinityrun" alt="ankitsingh" /> </p>
 <!--
 ![no of visitor](https://visitor-badge.glitch.me/badge?page_id=infinityrun.infinityrun)
 
