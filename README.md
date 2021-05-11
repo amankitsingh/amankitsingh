@@ -19,8 +19,8 @@
 [@amankitsingh](https://twitter.com/amankitsingh/) &nbsp;&nbsp;&nbsp;
 [@ankitsingh99](https://www.linkedin.com/in/ankitsingh99/) &nbsp;&nbsp;&nbsp;
 [@amankitsingh](https://www.instagram.com/amankitsingh/) &nbsp;&nbsp;&nbsp;
-[Dev.to](https://dev.to/ankitsingh) &nbsp;&nbsp;&nbsp;
-[Medium.com](https://medium.com/@ankitsingh99)
+[@ankitsingh](https://dev.to/ankitsingh) &nbsp;&nbsp;&nbsp;
+[@ankitsingh99](https://medium.com/@ankitsingh99)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infinityrun" alt="ankitsingh" /> </p>
