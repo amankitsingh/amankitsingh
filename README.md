@@ -12,9 +12,9 @@
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/amankitsingh/"><img src="https://img.icons8.com/android/24/000000/instagram.png" height="20px" width="20px"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
-<a href="https://www.medium.com/@ankitsingh99"><img src="https://img.icons8.com/color/search/96" height="20px" width="20px"/></a>
+<a href="https://www.medium.com/@ankitsingh99"><img src="https://img.icons8.com/color/search" height="20px" width="20px"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
-<a href="https://www.dev.to/ankitsingh/"><img src="https://img.icons8.com/android/24/000000/blog.png" height="20px" width="20px"/></a>
+<a href="https://www.dev.to/ankitsingh/"><img src="https://img.icons8.com/color/search" height="20px" width="20px"/></a>
 
 [@amankitsingh](https://twitter.com/amankitsingh/) &nbsp;&nbsp;&nbsp;
 [@ankitsingh99](https://www.linkedin.com/in/ankitsingh99/) &nbsp;&nbsp;&nbsp;
