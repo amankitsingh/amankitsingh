@@ -3,7 +3,7 @@ name: Update badges
 on:
   schedule:
     # Runs at 2am UTC
-    - cron: "0 2 * * *"
+    - cron: "0 18 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -12,4 +12,4 @@ jobs:
       - name: Badges - Readme
         uses: amankitsingh/badge-readme@main
         with:       
-          CREDLY_USER: <ankit-singh.b7d565f6> # optional, but default will use the same from github
+          CREDLY_USER: <amankitsingh> # optional, but default will use the same from github
