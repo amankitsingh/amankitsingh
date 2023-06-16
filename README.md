@@ -4,12 +4,13 @@
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
-In this place I opensource codes and fix things :rofl:
+In this place I open source codes and fix things :rofl:
 
-- 🔭 &nbsp;I’m currently working on cool things, you can't imagine :wink:
-- 🌱 &nbsp;I’m currently learning Swift, TS
-- 💬 &nbsp;AMA related to Javascript/Python or Flask/Rails
-- ⚡ &nbsp;Fun fact: I :heart: Adventure Sports, Reading Novel, Travelling
+- 🔭 &nbsp; I’m currently working on cool things, you can't imagine :wink:
+- 🌱 &nbsp; I’m currently learning Swift, TS
+- 💬 &nbsp; AMA related to Javascript/Python or Flask/Rails
+- 👾 &nbsp; Certified AWS solution Architect. You want to save costs and have a great system design. Ping me 😎
+- ⚡ &nbsp; Fun fact: I :heart: Adventure Sports, Reading Novel, Travelling
 
 ### 📫 Like to meet me?
 
