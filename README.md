@@ -22,7 +22,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <a href="https://cal.com/ankitsingh/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-🔗 &nbsp;**Connect with me**
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 <p align="left">
 <a href="https://dev.to/ankitsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ankitsingh" height="30" width="40" /></a>
 <a href="https://medium.com/@ankitsingh99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ankitsingh" height="30" width="40" /></a>
@@ -61,6 +62,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 
 <!---
+🔗 &nbsp;**Connect with me**
 - 👨‍💻 &nbsp;Read more about my projects at [theankitsingh.in](https://www.theankitsingh.in/#portfolio)
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/amankitsingh"><img src="https://img.icons8.com/android/24/000000/twitter.png" height="20px" width="20px"/></a>
