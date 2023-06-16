@@ -1,14 +1,15 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste) 🙏🏻 , I'm Ankit Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-This is the place where I opensource codes and break things :rofl:
-
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Swift, TS
-- 💬 &nbsp;Ask me about anything related to Javascript/Python or Flask/Rails
-- ⚡ &nbsp;Fun fact: I :heart: Adventure Sports, Reading Novel, Travelling
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+
+In this place I opensource codes and fix things :rofl:
+
+- 🔭 &nbsp;I’m currently working on cool things, you can't imagine :wink:
+- 🌱 &nbsp;I’m currently learning Swift, TS
+- 💬 &nbsp;AMA related to Javascript/Python or Flask/Rails
+- ⚡ &nbsp;Fun fact: I :heart: Adventure Sports, Reading Novel, Travelling
 
 ### 📫 Like to meet me?
 
@@ -45,6 +46,10 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<br/>
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankitsingh&hide=issues&count_private=true&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amankitsingh&layout=compact&theme=calm)](https://github.com/amankitsingh/github-readme-stats)
