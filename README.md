@@ -5,9 +5,6 @@
 </em></p>
 
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
 In this place I open source codes and fix things :rofl:
 
 - 🔭 &nbsp; I’m currently working on cool things, you can't imagine :wink:
