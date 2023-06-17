@@ -12,4 +12,4 @@ jobs:
       - name: Badges - Readme
         uses: amankitsingh/amankitsingh@master
         with:       
-          CREDLY_USER: <amankitsingh> # optional, but default will use the same from github
+          CREDLY_USER: amankitsingh # optional, but default will use the same from github
