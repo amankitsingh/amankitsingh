@@ -13,8 +13,8 @@ In this place I open source codes and fix things :rofl:
 - 🔭 &nbsp; I’m currently working on cool things, you can't imagine :wink:
 - 🌱 &nbsp; I’m currently learning Swift, TS, Web3
 - 💬 &nbsp; AMA related to Javascript/Python or Flask/Rails
-- 👾 &nbsp; Certified AWS solution Architect. You want to save costs and have a great system design. Ping me 😎
-- ⚡ &nbsp; Fun fact: I :heart: Adventure Sports, Reading Novel, Travelling
+- 👾 &nbsp; Certified AWS Solution Architect. Want to save costs and have a great system design? Ping me 😎
+- ⚡ &nbsp; Me: I :heart: Adventure Sports, Reading Novel, Travelling
 
 ### 📫 Like to meet me?
 
