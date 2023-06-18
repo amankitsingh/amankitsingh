@@ -12,7 +12,7 @@ In this place I open source codes and fix things :rofl:
 - 💬 &nbsp; AMA related to Javascript/Python or Flask/Rails
 - 👾 &nbsp; Certified AWS Solution Architect. Want to save costs and have a great system design? Ping me 😎
 - ⚡ &nbsp; Me: I :heart: Adventure Sports, Reading Novel, Travelling
-- 
+  
 
 ### 📫 Like to meet me?
 
