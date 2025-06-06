@@ -53,7 +53,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <br/>
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankitsingh&hide=issues&count_private=true&show_icons=true&theme=onedark)
+<!-- ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankitsingh&hide=issues&count_private=true&show_icons=true&theme=onedark)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amankitsingh&layout=compact&theme=calm)](https://github.com/amankitsingh/github-readme-stats)
 
 
