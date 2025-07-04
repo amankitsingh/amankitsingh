@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Senior Software Engineer at <a href="https://sequoia.com/">Sequoia
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<p><em>Lead Engineer at <a href="https://juspay.in/">LotusPay(acquired by Juspay)
+<p><em>Lead/founding Engineer at <a href="https://juspay.in/">LotusPay(acquired by Juspay)
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
